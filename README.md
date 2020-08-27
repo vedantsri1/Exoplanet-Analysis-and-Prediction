@@ -1,1 +1,6 @@
 # Python-Project
+Have you ever looked up at the sky and wondered, is our planet Earth the only place with life on it? The answer to that question is, probably not. With this arises the other question, which of the planets out there can actually support life on it? That time is not far when humans too might be able to / have to start living on planets other than Earth.
+
+With this comes the significance of this project. Back in 2009, NASA launched The Kepler Space Observatory, a NASA-built satellite for space observation. As mentioned by NASA, the satellite is dedicated to finding exoplanets or extrasolar planet which by definition is a planet outside the Solar System. The ultimate goal of this exploration is the posibility of finding other habitable planets, besides our own. The telescope within the satellite has remained in service since 2014 on an extended mission and NASA consistently releases the data of it for public research interest.
+
+We took this data as our working dataset of the project. Through manipulation of this data, we somewhat played the roles of amateur astronomers, in hopes of finding out which of the key components identify an astral body as an exoplanet and then predict the status of such other astral bodies based on what we have learnt
